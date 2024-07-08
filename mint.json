@@ -25,41 +25,21 @@
     "name": "Get Started",
     "url": "https://app.refix.ai"
   },
-
-
-  "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    }
-  ],
   "navigation": [
     {
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "installation"
       ]
     },
     {
-      "group": "Autotrack",
+      "group": "Tracking",
       "pages": [
         "autotrack/introduction",
-        "autotrack/interactions",
+        "autotrack/users",
         "autotrack/session",
-        "autotrack/users"
+        "autotrack/interactions"
       ]
     }
   

@@ -1,36 +1,32 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Refix AI",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#8884D8",
+    "light": "#8884D8",
+    "dark": "#8884D8",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#8884D8",
+      "to": "#4A44C3"
     }
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Book a Demo",
+      "url": "mailto:hey@refix.ai"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Get Started",
+    "url": "https://app.refix.ai"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
+
+
   "anchors": [
     {
       "name": "Documentation",
@@ -58,30 +54,15 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Autotrack",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "autotrack/introduction",
+        "autotrack/interactions",
+        "autotrack/session",
+        "autotrack/users"
       ]
     }
+  
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",

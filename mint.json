@@ -45,7 +45,7 @@
     {
       "group": "Visual Labelling mode",
       "pages": [
-        "visual-labelling-mode/overivew",
+        "visual-labelling-mode/overview",
         "visual-labelling-mode/rename-an-event",
         "visual-labelling-mode/limit-to-position"
       ]

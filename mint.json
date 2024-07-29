@@ -55,8 +55,7 @@
       "pages": [
         "dashboard/overview",
         "dashboard/adding-a-new-domain",
-        "dashboard/filtering",
-        "dashboard/searching-for-an-event"
+        "dashboard/filtering"
       ]
     }  
   

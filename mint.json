@@ -46,14 +46,6 @@
         "visual-labelling-mode/rename-an-event",
         "visual-labelling-mode/limit-to-Position"
       ]
-    },
-    {
-      "group": "Dashboard",
-      "pages": [
-        "dashboard/overview",
-        "dashboard/adding-a-new-domain",
-        "dashboard/filtering"
-      ]
     }
   ],
   "footerSocials": {

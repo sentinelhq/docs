@@ -28,7 +28,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["Overview", "installation"]
+      "pages": ["overview", "installation"]
     },
     {
       "group": "Tracking",

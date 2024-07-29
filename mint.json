@@ -39,7 +39,7 @@
         "tracking/autotrack",
         "tracking/users",
         "tracking/sessions",
-        "tracking/events"
+        "tracking/interactions"
       ]
     },
     {

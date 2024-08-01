@@ -5,6 +5,7 @@
     "dark": "/logo/refix-logo.png",
     "light": "/logo/refix-logo.png"
   },
+  "layout": "sidenav",
   "favicon": "/logo/refix-favicon.png",
   "colors": {
     "primary": "#8884D8",
@@ -45,6 +46,12 @@
         "visual-labelling-mode/overview",
         "visual-labelling-mode/rename-an-event",
         "visual-labelling-mode/limit-to-position"
+      ]
+    },
+    {
+      "group": "Data & Privacy",
+      "pages": [
+        "privacy/GDPR"
       ]
     }
   ],

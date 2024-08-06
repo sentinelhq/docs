@@ -55,8 +55,8 @@
   ],
   "redirects": [
     {
-      "source": "/:slug*",
-      "destination": "/docs/:slug*"
+      "source": "/*",
+      "destination": "/docs/*"
     }
   ],
   "footerSocials": {

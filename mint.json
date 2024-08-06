@@ -50,15 +50,13 @@
     },
     {
       "group": "Data & Privacy",
-      "pages": [
-        "privacy/GDPR"
-      ]
+      "pages": ["privacy/GDPR"]
     }
   ],
   "redirects": [
     {
-      "source": "/*",
-      "destination": "/docs/*"
+      "source": "/:slug*",
+      "destination": "/docs/:slug*"
     }
   ],
   "footerSocials": {

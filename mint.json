@@ -34,8 +34,8 @@
     {
       "group": "Tracking",
       "pages": [
+        "docs/tracking/autotrack",
         "docs/tracking/users",
-        "docs/tracking/test",
         "docs/tracking/sessions",
         "docs/tracking/interactions"
       ]

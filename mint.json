@@ -55,6 +55,12 @@
       ]
     }
   ],
+  "redirects": [
+    {
+      "source": "/*",
+      "destination": "/docs/*"
+    }
+  ],
   "footerSocials": {
     "website": "https://www.refix.ai",
     "linkedin": "https://www.linkedin.com/company/refix-ai/"

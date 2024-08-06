@@ -35,7 +35,7 @@
       "group": "Tracking",
       "pages": [
         "docs/tracking/users",
-        "docs/tracking/autotrack",
+        "docs/tracking/test",
         "docs/tracking/sessions",
         "docs/tracking/interactions"
       ]

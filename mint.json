@@ -29,34 +29,28 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["overview", "installation"]
+      "pages": ["docs/overview", "docs/installation"]
     },
     {
       "group": "Tracking",
       "pages": [
-        "tracking/autotrack",
-        "tracking/users",
-        "tracking/sessions",
-        "tracking/interactions"
+        "docs/tracking/autotrack",
+        "docs/tracking/users",
+        "docs/tracking/sessions",
+        "docs/tracking/interactions"
       ]
     },
     {
       "group": "Visual Labelling mode",
       "pages": [
-        "visual-labelling-mode/overview",
-        "visual-labelling-mode/rename-an-event",
-        "visual-labelling-mode/limit-to-position"
+        "docs/visual-labelling-mode/overview",
+        "docs/visual-labelling-mode/rename-an-event",
+        "docs/visual-labelling-mode/limit-to-position"
       ]
     },
     {
       "group": "Data & Privacy",
-      "pages": ["privacy/GDPR"]
-    }
-  ],
-  "redirects": [
-    {
-      "source": "/*",
-      "destination": "/docs/*"
+      "pages": ["docs/privacy/GDPR"]
     }
   ],
   "footerSocials": {

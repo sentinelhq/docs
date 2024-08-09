@@ -41,7 +41,7 @@
     {
       "group": "Tracking",
       "pages": [
-        "tracking/autotrack",
+        "tracking/autocapture",
         "tracking/users",
         "tracking/sessions",
         "tracking/interactions"

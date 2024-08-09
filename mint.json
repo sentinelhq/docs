@@ -16,6 +16,7 @@
       "to": "#4A44C3"
     }
   },
+  
   "topbarLinks": [
     {
       "name": "Book a Demo",
@@ -26,6 +27,12 @@
     "name": "Get Started",
     "url": "https://app.refix.ai"
   },
+  "anchors": [
+    {
+        "name": "Guides",
+        "icon": "lightbulb",
+        "url": "guides"
+    }],
   "navigation": [
     {
       "group": "Get Started",
@@ -51,8 +58,13 @@
     {
       "group": "Data & Privacy",
       "pages": [
-        "privacy/GDPR"
+        "privacy/GDPR",
+        "privacy/TOS"
       ]
+    },
+    {
+      "group": "Guides",
+      "pages": ["guides/framer"]
     }
   ],
   "footerSocials": {

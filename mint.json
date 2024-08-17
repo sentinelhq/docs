@@ -63,6 +63,10 @@
       ]
     },
     {
+      "group": "Pricing",
+      "pages": ["pricing/overage-ltd"]
+    },
+    {
       "group": "Guides",
       "pages": ["guides/framer"]
     }
